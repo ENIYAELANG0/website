@@ -10,7 +10,7 @@ body{
     align-items: center;
     gap:15px ;
     position: relative;
-    padding:10px;
+    
     
 
 }
@@ -111,7 +111,8 @@ a{
     width:100% ;
     justify-content: space-around;
     gap: 10px;
-    padding-inline-end:10px ;
+    padding-inline-end:15px ;
+    padding-inline-start:15px ;
 }
 .grid{
     display: flex;
